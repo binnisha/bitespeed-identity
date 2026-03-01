@@ -26,10 +26,10 @@ That's exactly what this service solves - **Identity Reconciliation**.
 
 ## 🚀 Live Demo
 
-> **Base URL:** `https://bitespeed-identity.onrender.com`
+> **Base URL:** `https://bitespeed-identity-mzu1.onrender.com`
 
 ```
-POST https://bitespeed-identity.onrender.com/identify
+POST https://bitespeed-identity-mzu1.onrender.com/identify
 ```
 
 ---
